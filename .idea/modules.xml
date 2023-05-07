@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Jedis.iml" filepath="$PROJECT_DIR$/Jedis.iml" />
       <module fileurl="file://$PROJECT_DIR$/Redis.iml" filepath="$PROJECT_DIR$/Redis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo/springboot-redis.iml" filepath="$PROJECT_DIR$/demo/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis1/springboot-redis1.iml" filepath="$PROJECT_DIR$/springboot-redis1/springboot-redis1.iml" />
     </modules>
   </component>
 </project>

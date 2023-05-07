@@ -4,7 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Jedis/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-redis1/pom.xml" />
       </list>
     </option>
   </component>

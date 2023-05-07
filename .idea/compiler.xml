@@ -7,12 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Jedis" />
-        <module name="springboot-redis" />
+        <module name="springboot-redis1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Jedis" target="1.5" />
       <module name="springboot-redis" target="1.8" />
+      <module name="springboot-redis1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.huang.pojo;
+package com.example.springbootredis1.huang.pojo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

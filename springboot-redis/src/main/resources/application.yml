@@ -1,7 +1,0 @@
-# redis配置类RedisAutoConfiguration
-# 自动配置类都会绑定一个properties配置文件
-spring:
-  redis:
-    # host和port默认时localhost和6379
-    host: 127.0.0.1
-    port: 6379

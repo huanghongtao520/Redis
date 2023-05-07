@@ -1,4 +1,4 @@
-package com.huang.config;
+package com.example.springbootredis1.huang.config;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
@@ -35,8 +35,5 @@ public class RedisConfig {
         template.afterPropertiesSet();
 
         return template;
-
-
-
     }
 }
