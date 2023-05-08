@@ -13,7 +13,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 @Configuration
 public class RedisConfig {
 
-    //自定义RedisTemplate
+    //自定义RedisTemplate会覆盖掉原来系统默认的RedisTemplate
     @Bean
     public RedisTemplate<String,Object> redisTemplate(RedisConnectionFactory redisConnectionFactory){
         RedisTemplate<String, Object> template = new RedisTemplate<String, Object>();
